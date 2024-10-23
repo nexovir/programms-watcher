@@ -1,3 +1,5 @@
+Bug Bounty Program Watcher
+
 A script to monitor bug bounty platforms, update the local database, and send notifications via Telegram.
 
 Features
@@ -50,3 +52,9 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 You can modify the repository URL and add more details based on your project. Let me know if you'd like further changes!
+
+
+
+
+
+
