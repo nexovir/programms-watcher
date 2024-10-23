@@ -1,0 +1,8 @@
+file logger.txt has been cleaned. -> 23/10/2024, 07:27:24
+You Start Watching for New Programms , update_time : 24 , telegram_send : no -> 23/10/2024, 07:27:24
+Getting new targets please wait ... -> 23/10/2024, 07:27:44
+Getting new targets was seccussfully done -> 23/10/2024, 07:28:34
+Looking for new targets please wait ... -> 23/10/2024, 07:28:36
+Checking new targets was successfully done -> 23/10/2024, 07:29:00
+No Changes in Data Base :) -> 23/10/2024, 07:29:00
+DATABASE UPDATED SUCCESSFULLY at (10/23/2024, 07:29:00) -> 23/10/2024, 07:29:00
